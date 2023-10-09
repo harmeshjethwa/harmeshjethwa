@@ -2,6 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🎓 &nbsp; Studying Computer Science at the University of Southampton
 - 🤔 &nbsp; Exploring new languages and expanding my skills.
 - 💼 &nbsp; Working as a freelance full stack web developer.
 - 🌱 &nbsp; Learning more about backend web development and app development.
