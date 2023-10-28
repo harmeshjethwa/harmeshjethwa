@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at the University of Southampton
-- 🤔 &nbsp; Currently learning the Laravel web framework and Java.
+- 🤔 &nbsp; Currently learning the Laravel web framework, Java and C.
 - 💼 &nbsp; Previous freelancing experience as a full stack web developer.
 - 🌱 &nbsp; Learning more about backend web development and app development.
 
